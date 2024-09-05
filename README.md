@@ -25,7 +25,7 @@ Museum Of Candy Project from The Web Developer Bootcamp by Colt Steel
 
 ### Link
 
-- Live Site URL: [Live site URL](https://ania-sk.github.io/article-preview-component/)
+- Live Site URL: [Live site URL](https://ania-sk.github.io/museum-of-candy-bootsrtap/)
 
 ## My process
 
